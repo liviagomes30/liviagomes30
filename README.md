@@ -1,8 +1,9 @@
 ## Oii, eu sou a Lívia Gomes!
 
 - 🔭 Atualmente sou estudante
-- 🌱 Cursando Sistemas de Informação
+- 🌱 Cursando Sistemas de Informação na UNOESTE (Universidade do Oeste Paulista)
 - 😄 Pronomes: Ela/dela
+- 📍  Localização: Osvaldo Cruz/SP
 
 ## Contatos:
 
