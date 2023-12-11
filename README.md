@@ -1,4 +1,4 @@
-## Oii, eu sou a Lívia Gomes!
+## Oii, eu sou a Lívia!
 
 - 🔭 Atualmente sou estudante
 - 🌱 Cursando Sistemas de Informação na UNOESTE (Universidade do Oeste Paulista)
