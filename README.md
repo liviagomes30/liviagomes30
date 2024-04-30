@@ -1,23 +1,21 @@
-## Oii, eu sou a Lívia!
+# Olá! Meu nome é Lívia 😃
 
-- 🔭 Atualmente sou estudante
-- 🌱 Cursando Sistemas de Informação na UNOESTE (Universidade do Oeste Paulista)
-- 😄 Pronomes: Ela/dela
-- 📍  Localização: Osvaldo Cruz/SP
+### Formação
 
-## Contatos:
+- 📊 Técnico em Administração
+- 🖥️ Bacharel em Sistemas de Informação (conclusão em 2026)
+- ⌨️ Cursos específicos na área de Tecnologia
 
-<div>
-<a href="https://www.instagram.com/liviagomes30/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:liviagomes30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/liviagomesdesouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+### Atuação Profissional
 
-<div>
-<a href="https://github.com/liviagomes30">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviagomes30&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviagomes30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+- Atualmente atuo como **Suporte Técnico** em uma Software House. Competências: Atendimento ao Cliente, Resolução de Problemas Técnicos, Instalação e Configuração, Atualizações e Manutenção, Treinamento, Feedback dos Clientes, Documentação e Testes de Qualidade
 
-![Snake animation](https://github.com/liviagomes30/liviagomes30/blob/output/github-contribution-grid-snake.svg)
+## Conecte-se comigo!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liviagomesdesouza/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:liviagomes30@gmail.com)
+
+## Habilidades sendo desenvolvidas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liviagomes30&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
