@@ -8,7 +8,7 @@
 
 ### Atuação Profissional
 
-- Atualmente atuo como **Suporte Técnico** em uma Software House. Competências: Atendimento ao Cliente, Resolução de Problemas Técnicos, Instalação e Configuração, Atualizações e Manutenção, Treinamento, Feedback dos Clientes, Documentação e Testes de Qualidade
+- Atualmente atuo como Técnica de Desenvolvimento de Sistemas II no Hospital Regional de Presidente Prudente. Competências: Desenvolvimento de websites (JavaScript, Node.js, Next.js), criação e manutenção de sistemas corporativos (C#, ASP.NET, AJAX, Bootstrap), implantação de sistemas e suporte.
 
 ## Conecte-se comigo!
 
