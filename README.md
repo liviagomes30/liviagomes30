@@ -8,7 +8,7 @@
 
 ### Atuação Profissional
 
-- Atualmente atuo como Desenvolvedora Ful-Stack Trainee na Viceri SEIDOR. Competências: Desenvolvimento e manutenção de aplicações full stack utilizando .NET e Angular, apoiar na criação e melhoria de funcionalidades, contribuir para a integração entre backend e frontend, auxiliar no uso e consulta de bancos de dados, participar de rotinas de metodologias ágeis com Scrum, utilizar Git para versionamento, colaborar em atividades relacionadas a ambientes de desenvolvimento com Docker.
+- Atualmente atuo como Desenvolvedora Full-Stack Trainee na Viceri SEIDOR. Competências: Desenvolvimento e manutenção de aplicações full stack utilizando .NET e Angular, apoiar na criação e melhoria de funcionalidades, contribuir para a integração entre backend e frontend, auxiliar no uso e consulta de bancos de dados, participar de rotinas de metodologias ágeis com Scrum, utilizar Git para versionamento, colaborar em atividades relacionadas a ambientes de desenvolvimento com Docker.
 
 ## Conecte-se comigo!
 
